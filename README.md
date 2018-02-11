@@ -5,7 +5,7 @@ This repo contains the coursera programming assignment on getting and cleaning d
 This contains the "run_analysis.R" script, the codebook and the "tidy" data named "run_analysis_data.csv".
 
 
-1. The "run_analysis_data.csv" contains the tidy data. 
+1. The "run_analysis_data.txt" contains the tidy data. 
 2. The "run_analysis.R" shows the script used in cleaning the data set.
 3. The codebook.md contains the detailed explanation on how the data was cleaned and the column names of the "tidy" data.
 
