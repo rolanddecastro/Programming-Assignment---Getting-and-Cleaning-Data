@@ -17,7 +17,7 @@ The following steps where done to tidy the data:
 3. Extracted the measurements on the mean and standard deviation for each measurement.
 4. Used descriptive activity names to name the activities in the data set.
 5. Labeled the data set with descriptive variable names.
-6. Created an independent tidy data set (run_analysis_data.csv) with the average of each variable for each activity and each subject.
+6. Created an independent tidy data set (run_analysis_data.txt) with the average of each variable for each activity and each subject.
 
 
 The tidy data set contains the following:
@@ -58,7 +58,7 @@ The original data were collected and recoreded by:
 
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
-DITEN - Universit‡ degli Studi di Genova.
+DITEN - Universit√† degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
